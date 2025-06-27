@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Youtube_package",
-    version="0.1.0",
+    version="0.2.0",
     author="abhishek chaudhary",
     description="A Jupyter-friendly YouTube embedding and metadata tool",
     packages=find_packages("src"),
